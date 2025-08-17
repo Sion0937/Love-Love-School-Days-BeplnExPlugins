@@ -77,10 +77,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChangeSchedulePlugin.cs" />
     <Compile Include="DamageChangerPlugin.cs" />
-    <Compile Include="Debug.cs" />
+    <Compile Include="GetItemPlugin.cs" />
     <Compile Include="FastTravelFullMapListPlugin.cs" />
     <Compile Include="FastTravelShowPlugin.cs" />
+    <Compile Include="Debugg_unused.cs" />
     <Compile Include="God1Plugin.cs" />
     <Compile Include="FogChangerPlugin.cs" />
     <Compile Include="God2Plugin.cs" />
